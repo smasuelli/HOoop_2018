@@ -54,7 +54,6 @@ class cliente(object):
         #"""modifica el atributo categoria del cliente """
         self.categoria=categoria
         pass
-
   
     
 if __name__ == "__main__":
